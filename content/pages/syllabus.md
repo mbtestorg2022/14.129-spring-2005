@@ -49,19 +49,135 @@ Students are also required to discuss the paper (and presentation) of at least o
 Calendar
 --------
 
-| Lec # | topics |
-| --- | --- |
-| {{< td-colspan 3 >}}**Games with Incomplete Information**{{< /td-colspan >}} |||
-| 1 | Bayesian-Nash games |
-| {{< td-colspan 3 >}}**Auctions and Mechanism Design**{{< /td-colspan >}} |||
-| 2 | Auctions I: Common auctions, revenue equivalence, and optimal mechanisms |
-| 3 | Auctions II: Independent private values (IPV) and revenue equivalence |
-| 4 |  {{< br >}}{{< br >}} Auctions III: Interdependent values and linkage principle {{< br >}}{{< br >}} Auctions IV: Multiunit auctions and Cremer-McLean mechanism {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Static Models**{{< /td-colspan >}} |||
-| 5 | Simple models: Hidden information, Spence's model, and hidden action |
-| 6 | Moral hazard: Multiple agents |
-| {{< td-colspan 3 >}}**Dynamic Models**{{< /td-colspan >}} |||
-| 7 | Dynamic adverse selection: DG monopoly with fixed types |
-| 8 | Dynamic moral hazard |
-| {{< td-colspan 3 >}}**Surplus Division**{{< /td-colspan >}} |||
-| 9 | Surplus division, fair distribution, the Shapley value, and Nash bargaining solution
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Games with Incomplete Information**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian-Nash games
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Auctions and Mechanism Design**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Auctions I: Common auctions, revenue equivalence, and optimal mechanisms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Auctions II: Independent private values (IPV) and revenue equivalence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Auctions III: Interdependent values and linkage principle
+
+Auctions IV: Multiunit auctions and Cremer-McLean mechanism
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Static Models**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Simple models: Hidden information, Spence's model, and hidden action
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Moral hazard: Multiple agents
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Dynamic Models**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic adverse selection: DG monopoly with fixed types
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic moral hazard
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Surplus Division**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Surplus division, fair distribution, the Shapley value, and Nash bargaining solution
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
